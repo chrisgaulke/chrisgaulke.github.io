@@ -6,15 +6,6 @@ overflow: hidden;
 
 }
 
-.carousel-inner > .item {
-	height: 300px;
-	object-fit: contain;
-}
-
-img {
-        height: 300px;
-        object-fit: contain;
-}
 
 </style> 
 
