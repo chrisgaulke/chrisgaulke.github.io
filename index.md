@@ -1,5 +1,11 @@
 <style>
 
+.carousel {
+
+height: 300px; 
+
+}
+
 .carousel-inner > .item {
 	height: 300px;
 	object-fit: contain;
