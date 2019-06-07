@@ -11,6 +11,11 @@ height: 300px;
 	object-fit: contain;
 }
 
+img {
+        height: 300px;
+        object-fit: contain;
+}
+
 </style> 
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
