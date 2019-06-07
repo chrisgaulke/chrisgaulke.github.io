@@ -2,7 +2,7 @@
 
 .carousel-inner > .item {
 	height: 300px;
-	overflow:hidden;
+	object-fit: contain;
 }
 
 </style> 
