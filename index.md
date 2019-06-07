@@ -1,11 +1,7 @@
 <style>
 
 .carousel-inner > .item {
-	height: 400px;
-}
-
-img { 
-	height: 100vh;
+	height: 300px;
 }
 
 </style> 
