@@ -6,13 +6,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="sites/docs/infected_004-false_color.png" class="d-block w-100" alt="...">
+      <img src="sites/docs/images/infected_004-false_color.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="sites/docs/pathway_all.png" class="d-block w-100" alt="...">
+      <img src="sites/docs/images/pathway_all.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="sites/docs/reduced_circos_2.png" class="d-block w-100" alt="...">
+      <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
