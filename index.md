@@ -16,13 +16,13 @@ overflow: hidden;
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item active" data-interval="5000">
       <img src="sites/docs/images/infected_004-false_color.png" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item" data-interval="5000">
       <img src="sites/docs/images/pathway_all.png" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item" data-interval="5000">
       <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
     </div>
   </div>
