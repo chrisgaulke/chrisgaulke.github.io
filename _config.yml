@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - "sites/content/publications.html"
   - "sites/content/cv.html"
+  - "sites/content/about.html"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
