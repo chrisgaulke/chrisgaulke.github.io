@@ -40,3 +40,5 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<span class="border-top my-3"></span>
