@@ -3,7 +3,7 @@
 .carousel {
 
     overflow: hidden; 
-    height: 600px;
+    height: 400px;
 
 }
 
