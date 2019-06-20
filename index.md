@@ -2,7 +2,8 @@
 
 .carousel {
 
-overflow: hidden; 
+    overflow: hidden; 
+    height: 600px;
 
 }
 
