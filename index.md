@@ -3,7 +3,7 @@
 .carousel {
 
     overflow: hidden; 
-    height: 400px;
+    height: 450px;
 
 }
 
@@ -21,10 +21,13 @@
       <img src="sites/docs/images/infected_004-false_color.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-interval="5000">
-      <img src="sites/docs/images/pathway_all.png" class="d-block w-100" alt="...">
+      <img src="sites/docs/images/network2.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-interval="5000">
       <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" data-interval="5000">
+      <img src="sites/docs/images/Gut_2.png" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
