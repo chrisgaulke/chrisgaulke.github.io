@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="claatu_tax.svg"
+   inkscape:export-filename="/Users/gaulkec/Desktop/claatu_tax.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5404"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6078"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path6080" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5271"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5289"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5283"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="465.43884"
+     inkscape:cy="567.99831"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="695"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+    <sodipodi:guide
+       position="585.00001,175"
+       orientation="0,1"
+       id="guide5248" />
+    <sodipodi:guide
+       position="1160,440"
+       orientation="1,0"
+       id="guide6340" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path6076"
+       d="m 615.54163,440.43558 55.633,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6078)" />
+    <g
+       transform="matrix(0.58523096,0,0,0.55312398,-1.1711785,284.37843)"
+       id="g7048">
+      <g
+         id="g7050"
+         transform="translate(-42,60)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 114.48839,250.50509 -56.513789,0 m 254.247869,99.20183 0,42.51508 70.70648,0 m -155.41296,-240.91875 -113.0276,0 0,198.40367 197.66985,0 0.0642,-42.51507 70.70648,0 m -70.70648,-85.03015 0.0642,42.51508 70.64225,0 M 312.2867,94.616488 l -84.77071,0 0,127.545212 84.77071,0 -0.0642,-42.51506 70.70648,0 m 0,-127.545217 -70.70648,0 0,42.515065 0,42.515072 70.70648,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8.7881031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path7052"
+           sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text7054"
+           y="64.524643"
+           x="398.88834"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="64.524643"
+             x="398.88834"
+             id="tspan7056"
+             sodipodi:role="line"
+             style="font-weight:bold">OTU1: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7547">Ruminococcus flavefaciens</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="396.86801"
+           y="149.09319"
+           id="text7058"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7060"
+             x="396.86801"
+             y="149.09319"
+             style="font-weight:bold">OTU2: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7549">Ruminococcus <tspan
+   style="font-style:normal"
+   id="tspan7551">sp.</tspan></tspan></tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7062"
+           y="192.42822"
+           x="397.87817"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="192.42822"
+             x="397.87817"
+             id="tspan7064"
+             sodipodi:role="line"
+             style="font-weight:bold">OTU3: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7555">Ruminococcaceae</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="397.87817"
+           y="276.99677"
+           id="text7066"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7068"
+             x="397.87817"
+             y="276.99677"
+             style="font-weight:bold">OTU4: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7557">Ruminococcus flavefaciens</tspan></tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7070"
+           y="319.36224"
+           x="398.88834"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="319.36224"
+             x="398.88834"
+             id="tspan7072"
+             sodipodi:role="line"
+             style="font-weight:bold">OTU5: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7559">Faecalibacterium prausnitzii</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="398.88834"
+           y="406.92062"
+           id="text7074"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7076"
+             x="398.88834"
+             y="406.92062"
+             style="font-weight:bold">OTU6: <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan7561">Blautia <tspan
+   style="font-style:normal"
+   id="tspan7563">sp.</tspan></tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="276.50156"
+         y="167.39265"
+         id="text7078"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7080"
+           x="276.50156"
+           y="167.39265"
+           style="font-weight:bold;fill:#ff0000;fill-opacity:1">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="276.31845"
+         y="296.10333"
+         id="text7082"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7084"
+           x="276.31845"
+           y="296.10333"
+           style="font-weight:bold;fill:#006900;fill-opacity:1">B</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7086"
+         y="422.37241"
+         x="277.51779"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#0000ff;fill-opacity:1"
+           y="422.37241"
+           x="277.51779"
+           id="tspan7088"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="192.96477"
+         y="226.4028"
+         id="text7098"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7100"
+           x="192.96477"
+           y="226.4028"
+           style="font-weight:bold;fill:#aa008d;fill-opacity:1">D</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7102"
+         y="321.35715"
+         x="80.700478"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#ff8a00;fill-opacity:1"
+           y="321.35715"
+           x="80.700478"
+           id="tspan7104"
+           sodipodi:role="line">E</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7539"
+       y="446.36221"
+       x="460"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:27.5px"
+         y="446.36221"
+         x="460"
+         id="tspan7541"
+         sodipodi:role="line" /></text>
+    <g
+       id="g7921"
+       transform="matrix(0.69456102,0,0,0.69456102,221.9923,111.13269)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text7817"
+         y="392.36221"
+         x="720"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.88627451;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#ff0000;fill-opacity:0.88627451"
+           y="392.36221"
+           x="720"
+           id="tspan7819"
+           sodipodi:role="line">A: <tspan
+   id="tspan7919"
+   style="font-style:italic">Ruminococcus</tspan> sp.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="720"
+         y="436.36221"
+         id="text7821"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7823"
+           x="720"
+           y="436.36221"
+           style="font-weight:bold;fill:#006900;fill-opacity:1">B: <tspan
+   id="tspan7917"
+   style="font-style:italic">Ruminococcaceae</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7825"
+         y="480.3439"
+         x="720"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#0000ff;fill-opacity:1"
+           y="480.3439"
+           x="720"
+           id="tspan7827"
+           sodipodi:role="line">C: <tspan
+   id="tspan7915"
+   style="font-style:italic">Clostridiales</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa008d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="720"
+         y="524.36218"
+         id="text7829"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7831"
+           x="720"
+           y="524.36218"
+           style="font-weight:bold;fill:#aa008d;fill-opacity:1">D: <tspan
+   id="tspan7913"
+   style="font-style:italic">Ruminococcaceae</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7833"
+         y="568.36218"
+         x="720"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#ff8a00;fill-opacity:1"
+           y="568.36218"
+           x="720"
+           id="tspan7835"
+           sodipodi:role="line">E: <tspan
+   id="tspan7911"
+   style="font-style:italic"> Clostridiales</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="720"
+       y="512.36218"
+       id="text7837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7839"
+         x="720"
+         y="512.36218" /></text>
+  </g>
+  <style
+     id="style3"
+     type="text/css" />
+</svg>

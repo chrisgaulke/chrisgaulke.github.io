@@ -1,0 +1,159 @@
+---
+layout: default
+title: Research
+--- 
+
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container {
+  position: relative;
+  display: none;
+}
+
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+.imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+</style>
+</head> 
+
+</div>
+
+
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+
+<!-- The four columns -->
+<div class="row">
+  <div class="column">
+    <img src="/sites/docs/images/reduced_circos_2.png" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/Gut_2.png" alt="Snow" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/network2.png" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/PCT_D8A_Step_2a_worm_and_apoptosis.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+  </div>
+</div>
+ 
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+
+<hr/>
+
+
+<div class="row">
+  <div class="column">
+    <img src="/sites/docs/images/reduced_circos_2.png" alt="Nature" style="width:100%" onclick="myFunction2(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/Gut_2.png" alt="Snow" style="width:100%" onclick="myFunction2(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/network2.png" alt="Mountains" style="width:100%" onclick="myFunction2(this);">
+  </div>
+  <div class="column">
+    <img src="/sites/docs/images/PCT_D8A_Step_2a_worm_and_apoptosis.jpg" alt="Lights" style="width:100%" onclick="myFunction2(this);">
+  </div>
+</div>
+
+<div class ="row">
+ <div class ="column" style= "float:left"> 
+    <div class="container" style="background:rgba(0,0,0, 0.8);" > 
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+        <img id="expandedImg2" class="mx-auto d-block" style="width:50%">
+     <div id="imgtext2" class= "imgtext"></div>
+    </div>
+ </div>
+ <div class="column" style="float:right; width: 75%">
+    <div class="container" style="background:rgba(255,0,0, 0.8);" >
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+        <img id="expandedImg2" class="mx-auto d-block" style="width:50%">
+        <div id="imgtext2" class= "imgtext"></div>
+    </div>
+ </div>
+</div>
+
+<script>
+function myFunction2(imgs) {
+  var expandImg2 = document.getElementById("expandedImg2");
+  var imgText2 = document.getElementById("imgtext2");
+  expandImg2.src = imgs.src;
+  imgText2.innerHTML = imgs.alt;
+  expandImg2.parentElement.style.display = "block";
+}
+</script>
+
+
+ 
+</html>
+
+

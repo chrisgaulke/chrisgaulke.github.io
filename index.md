@@ -1,14 +1,57 @@
+
 <style>
 
 .carousel {
 
     overflow: hidden; 
-    height: 450px;
+    height: 550px;
 
 }
 
 
+.carousel-content {
+  position: absolute;
+  bottom: 50%;
+  z-index: 20;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 100%;
+  height: 10%; 
+}
+
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(1, 1);
+  }
+  to {
+    -webkit-transform: scale(1.25, 1.25);
+  }
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(1, 1);
+  }
+  to {
+    transform: scale(1.25, 1.25);
+  }
+}
+
+.carousel-inner .carousel-item > img {
+  -webkit-animation: zoom 10s;
+  animation: zoom 10s;
+  margin-top: -10%;
+  margin-bottom: -10%;
+}
+
+.card-img-top {
+    height: 20vw;
+    object-fit: cover;
+}
+
 </style> 
+
+
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -18,17 +61,29 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active" data-interval="5000">
-      <img src="sites/docs/images/infected_004-false_color.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item" data-interval="5000">
-      <img src="sites/docs/images/network2.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item" data-interval="5000">
-      <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item" data-interval="5000">
-      <img src="sites/docs/images/Gut_2.png" class="d-block w-100" alt="...">
+        <div class="carousel-item active" data-interval="5000">
+            <img src="sites/docs/images/infected_004-false_color.png" class="d-block mx-auto w-100" alt="...">
+            <div class="carousel-content">
+                <h1 style="text-align: center;"> Host-Microbiome-Parasite Interactions</h1>
+            </div>  
+        </div>
+        <div class="carousel-item" data-interval="5000">
+            <img src="sites/docs/images/network2.png" class="d-block w-100 mx-auto"  alt="...">
+            <div class="carousel-content">
+               <h1 style="text-align: center;">Complex Symbioses</h1>
+        </div>
+        </div>
+        <div class="carousel-item" data-interval="5000">
+            <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
+            <div class="carousel-content">
+               <h1 style="text-align: center;">Microbial Genomics</h1>
+            </div>
+       </div>
+        <div class="carousel-item" data-interval="5000">
+            <img src="sites/docs/images/Gut_2.png" class="d-block w-100" alt="...">
+            <div class="carousel-content">
+                <h1 style="text-align: center;">Gut Health</h1>
+            </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -41,4 +96,55 @@
   </a>
 </div>
 
-<span class="border-top my-3"></span>
+<hr /> 
+
+<row> 
+
+<div> 
+<h3 style="text-align: center; font-style: oblique;">Dr Christopher Gaulke's research focuses on understanding the mechanisms through which the gut microbiome mediates the impacts of environmental exposures on host physiology</h3>
+</div>
+<hr />
+
+
+<div class="card-group">
+
+  <div class="card" style="max-width:100%; border:none;">
+    <div class="card-body">
+      <img class="card-img-top" src="sites/docs/images/reduced_circos_2.png" alt="Big Data" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Microbial Genomics</h4>
+      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+    </div>
+   
+    <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
+      <a href="#" style="color: white;"><h4>Read More</h4></a>
+    </div>
+ 
+  </div>
+  
+ <div class="card" style="max-width:100%; border:none;">
+    <div class="card-body">
+      <img class="card-img-top" src="sites/docs/images/Gut_2.png" alt="Gut Health" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Gut Health</h4>
+      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+    </div>
+   
+    <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
+        <a href="#" style="color: white;"><h4>Read More</h4></a>
+    </div>
+ 
+  </div>
+
+  <div class="card" style="max-width:100%; border:none;">
+   <div class="card-body">
+      <img class="card-img-top" src="sites/docs/images/infected_004-false_color.png" alt="hem-int" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Microbiome-Host-Interactions</h4>
+      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+    </div>
+    
+    <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
+        <a href="#" style="color: white;"><h4>Read More</h4></a>
+    </div>
+  </div>
+</div>
+
+</row> 
