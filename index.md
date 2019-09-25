@@ -4,7 +4,7 @@
 .carousel {
 
     overflow: hidden; 
-    height: 550px;
+    height: 450px;
 
 }
 
@@ -100,7 +100,7 @@
     <div class="card-body">
       <img class="card-img-top" src="sites/docs/images/infected_004-false_color.png" alt="hem-int" style="width:100%">
       <h4 class="card-title" style="text-align: center;">Host-Microbe Interactions</h4>
-      <p class="card-text"> Microbiome operation is linked with health. Now we must understand the mechanism that underpin these associations.</p>
+      <p class="card-text"> Understanding the mechanisms that underpin associations between the microbiome and health.</p>
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
@@ -113,7 +113,7 @@
     <div class="card-body">
       <img class="card-img-top" src="sites/docs/images/Gut_2.png" alt="Microbial Exposure Science" style="width:100%">
       <h4 class="card-title" style="text-align: center;">Microbial Exposure Science</h4>
-      <p class="card-text"> Humans are bombarded by chemical exposures, but little is known about how these exposure impact host-microbiome interactions</p>
+      <p class="card-text"> Elucidating how environmental exposures impact host-microbiome interactions.</p>
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
@@ -126,7 +126,7 @@
    <div class="card-body">
       <img class="card-img-top" src="sites/docs/images/reduced_circos_2.png" alt="big data" style="width:100%">
       <h4 class="card-title" style="text-align: center;">Nutritional Microbiology</h4>
-      <p class="card-text"> How does dietary variation impact microbiome operation?</p>
+      <p class="card-text"> Quantifying the effects of dietary variation on microbiome operation.</p>
     </div>
     
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
