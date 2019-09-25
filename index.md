@@ -63,27 +63,15 @@
   <div class="carousel-inner">
         <div class="carousel-item active" data-interval="5000">
             <img src="sites/docs/images/infected_004-false_color.png" class="d-block mx-auto w-100" alt="...">
-            <div class="carousel-content">
-                <h1 style="text-align: center;"> Host-Microbiome-Parasite Interactions</h1>
-            </div>  
         </div>
         <div class="carousel-item" data-interval="5000">
             <img src="sites/docs/images/network2.png" class="d-block w-100 mx-auto"  alt="...">
-            <div class="carousel-content">
-               <h1 style="text-align: center;">Complex Symbioses</h1>
-        </div>
         </div>
         <div class="carousel-item" data-interval="5000">
             <img src="sites/docs/images/reduced_circos_2.png" class="d-block w-100" alt="...">
-            <div class="carousel-content">
-               <h1 style="text-align: center;">Microbial Genomics</h1>
-            </div>
        </div>
         <div class="carousel-item" data-interval="5000">
             <img src="sites/docs/images/Gut_2.png" class="d-block w-100" alt="...">
-            <div class="carousel-content">
-                <h1 style="text-align: center;">Gut Health</h1>
-            </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -110,9 +98,9 @@
 
   <div class="card" style="max-width:100%; border:none;">
     <div class="card-body">
-      <img class="card-img-top" src="sites/docs/images/reduced_circos_2.png" alt="Big Data" style="width:100%">
-      <h4 class="card-title" style="text-align: center;">Microbial Genomics</h4>
-      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+      <img class="card-img-top" src="sites/docs/images/infected_004-false_color.png" alt="hem-int" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Host-Microbe Interactions</h4>
+      <p class="card-text"> Microbiome operation is linked with health. Now we must understand the mechanism that underpin these associations.</p>
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
@@ -123,9 +111,9 @@
   
  <div class="card" style="max-width:100%; border:none;">
     <div class="card-body">
-      <img class="card-img-top" src="sites/docs/images/Gut_2.png" alt="Gut Health" style="width:100%">
-      <h4 class="card-title" style="text-align: center;">Gut Health</h4>
-      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+      <img class="card-img-top" src="sites/docs/images/Gut_2.png" alt="Microbial Exposure Science" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Microbial Exposure Science</h4>
+      <p class="card-text"> Humans are bombarded by chemical exposures, but little is known about how these exposure impact host-microbiome interactions</p>
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
@@ -136,9 +124,9 @@
 
   <div class="card" style="max-width:100%; border:none;">
    <div class="card-body">
-      <img class="card-img-top" src="sites/docs/images/infected_004-false_color.png" alt="hem-int" style="width:100%">
-      <h4 class="card-title" style="text-align: center;">Microbiome-Host-Interactions</h4>
-      <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
+      <img class="card-img-top" src="sites/docs/images/reduced_circos_2.png" alt="big data" style="width:100%">
+      <h4 class="card-title" style="text-align: center;">Nutritional Microbiology</h4>
+      <p class="card-text"> How does dietary variation impact microbiome operation?</p>
     </div>
     
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
