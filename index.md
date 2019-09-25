@@ -16,7 +16,7 @@
   color: black;
   background-color: rgba(255, 255, 255, 0.4);
   width: 100%;
-  height: 10%; 
+  height: 100%; 
 }
 
 @-webkit-keyframes zoom {
@@ -104,7 +104,7 @@
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-      <a href="#" style="color: white;"><h4>Read More</h4></a>
+      <a href="/sites/content/research3.html#r1" style="color: white;"><h4>Read More</h4></a>
     </div>
  
   </div>
@@ -117,7 +117,7 @@
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-        <a href="#" style="color: white;"><h4>Read More</h4></a>
+        <a href="/sites/content/research3.html#r2" style="color: white;"><h4>Read More</h4></a>
     </div>
  
   </div>
@@ -130,7 +130,7 @@
     </div>
     
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-        <a href="#" style="color: white;"><h4>Read More</h4></a>
+        <a href="/sites/content/research3.html#r3" style="color: white;"><h4>Read More</h4></a>
     </div>
   </div>
 </div>
