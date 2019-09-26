@@ -93,7 +93,7 @@ Incorporating phylogeny into the assessment of how microbial lineages are distri
 <p align="center"><img src="/sites/docs/images/claatu/claatu_counts.png" width="500" align="middle"/> </p>
 
 <div>
-<b>2.</b> Now that we have the ClaaTU ready tree we can get to work. The next script that we will run will take in a tab delimited table of OTU counts. You should have this from you microbiome analysis. Note that ClaaTU will not recognize a biom formatted table, so be sure to convert your biom table to text format. 
+<b>2.</b> Now that we have the ClaaTU ready tree we can get to work. The next script that we will run will take in a tab delimited table of OTU counts. You should have this from your microbiome analysis. Note that ClaaTU will not recognize a biom formatted table, so be sure to convert your biom table to text format. 
 </div>
 
 <br>
