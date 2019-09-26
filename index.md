@@ -89,7 +89,7 @@
 <row> 
 
 <div> 
-<h3 style="text-align: center; font-style: oblique;">Dr Christopher Gaulke's research focuses on understanding the mechanisms through which the gut microbiome mediates the impacts of environmental exposures on host physiology</h3>
+<h3 style="text-align: center; font-style: oblique;">Dr. Christopher Gaulke's research focuses on understanding the mechanisms through which the gut microbiome mediates the impacts of environmental exposures on host physiology</h3>
 </div>
 <hr />
 
@@ -104,7 +104,7 @@
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-      <a href="/sites/content/research3.html#r1" style="color: white;"><h4>Read More</h4></a>
+      <a href="/sites/content/research.html#r1" style="color: white;"><h4>Read More</h4></a>
     </div>
  
   </div>
@@ -117,7 +117,7 @@
     </div>
    
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-        <a href="/sites/content/research3.html#r2" style="color: white;"><h4>Read More</h4></a>
+        <a href="/sites/content/research.html#r2" style="color: white;"><h4>Read More</h4></a>
     </div>
  
   </div>
@@ -130,7 +130,7 @@
     </div>
     
     <div class="card" style="background-color: #2C3E50; margin: 0px 15px; text-align: center; padding: 10px 0;">
-        <a href="/sites/content/research3.html#r3" style="color: white;"><h4>Read More</h4></a>
+        <a href="/sites/content/research.html#r3" style="color: white;"><h4>Read More</h4></a>
     </div>
   </div>
 </div>

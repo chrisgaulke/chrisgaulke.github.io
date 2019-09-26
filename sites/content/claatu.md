@@ -93,7 +93,7 @@ Incorporating phylogeny into the assessment of how microbial lineages are distri
 <p align="center"><img src="/sites/docs/images/claatu/claatu_counts.png" width="500" align="middle"/> </p>
 
 <div>
-<b>2.</b> Now that we have the ClaaTU ready tree we can get to work. The next script that we will run will take in a tab delimited table of OTU counts. You should have this from you microbiome analysis. Note that ClaaTU will not recognize a biom formatted table, so be sure to convert you biom table to text format. 
+<b>2.</b> Now that we have the ClaaTU ready tree we can get to work. The next script that we will run will take in a tab delimited table of OTU counts. You should have this from you microbiome analysis. Note that ClaaTU will not recognize a biom formatted table, so be sure to convert your biom table to text format. 
 </div>
 
 <br>
@@ -103,13 +103,13 @@ Incorporating phylogeny into the assessment of how microbial lineages are distri
 </div>
 <br>
 <div>
-The output of this script is a clade counts table with internal node identifiers as columns and sample IDs as rows. These data can be used to examine differential abundance of clades across a case and control study. For some this might be where you stop if all you care about is what clades are in a sample and at what abundance. However, we have add some additional scripts downstream that some might find useful.  
+The output of this script is a clade counts table with internal node identifiers as columns and sample IDs as rows. These data can be used to examine differential abundance of clades across a case and control study. For some, this might be where you stop if all you care about is what clades are in a sample and at what abundance. However, we have add some additional scripts downstream that some might find useful.  
 </div>
 
 <br>
 
 <div>
-<b>3.</b> We realize that many researchers may be interested in the taxonomic labels associated with each clade, particularly if the clade is significantly different between case and control. Currently, we have attempted to address this need by implementing a strategy of propagation of taxonomic labels that use the taxonomic association of the tips (OTUs) and attempts to assign them to the ancestors of this tip. Importantly, this taxonomic label is only assigned to the ancestor of the tip if 100% of the other tips contained by the parent node also share this label. This script requires a taxonomy file, which may have been an output of upstream microbiome analysis. For example, if you used QIIME to analyze you data this file will be called something like rep_set_tax_assignments.txt. The first two columns of this taxonomy file should be OTU ID followed by a taxonomy string. This file must be tab delimited. Taxonomic label propagation can be performed by executing the following:
+<b>3.</b> We realize that many researchers may be interested in the taxonomic labels associated with each clade, particularly if the clade is significantly different between case and control. Currently, we have attempted to address this need by implementing a strategy of propagation of taxonomic labels that use the taxonomic association of the tips (OTUs) and attempts to assign them to the ancestors of this tip. Importantly, this taxonomic label is only assigned to the ancestor of the tip if 100% of the other tips contained by the parent node also share this label. This script requires a taxonomy file, which may have been an output of upstream microbiome analysis. For example, if you used QIIME to analyze your data this file will be called something like rep_set_tax_assignments.txt. The first two columns of this taxonomy file should be an OTU ID followed by a taxonomy string. This file must be tab delimited. Taxonomic label propagation can be performed by executing the following:
 </div>
 <br> 
 
@@ -152,7 +152,7 @@ This will output a final taxonomy dictionary that contains a mapping of clade (c
 
 <br>
 <div>
-<b>6.</b> [optional] To determine if a clade is more core than expected by random chance we can conduct a ptest. By default this will evaluate coreness across all samples in a biom table. For this analysis you will need a OTU table in text format, and a prepped tree. You also must specify the number of permutations with the -p flag.
+<b>6.</b> [optional] To determine if a clade is more core than expected by random chance we can conduct a ptest. By default this will evaluate coreness across all samples in an OTU table. For this analysis you will need a OTU table in text format, and a prepped tree. You also must specify the number of permutations with the -p flag.
 </div>
 <br>
 <div class="code">
@@ -160,7 +160,7 @@ This will output a final taxonomy dictionary that contains a mapping of clade (c
 </div>
 <br>
 <div>
-    Alternatively you can create a mapping file that maps sample ids to some group id. This mapping file should be tab delimited (i.e.,sample_ID tab group_id) and should not contain a header. 
+    Alternatively, you can create a mapping file that maps sample ids to some group id. This mapping file should be tab delimited (i.e.,sample_ID tab group_id) and should not contain a header. 
 </div>
 <br>
 <div class="code">
@@ -168,7 +168,7 @@ This will output a final taxonomy dictionary that contains a mapping of clade (c
 </div>
 <br>
 <div>
-    After the completion of the random permutations ptest_tree.py calculates a zscore and p-value for each observed coreness value. When no mapping file is given to ptest_tree.py one pvalue is calculated per clade. However, if a mapping file is passed to ptest_tree.py then a p-value is calculated for each clade and each group. For example, if you have 3 groups in the mapping file each clade will have three p-values, one for each group. The output of this will be two files 1) outfile.txt (where outfile is the name you specified), and 2) out_file.txt_stats.txt. Outfile.txt will contain several columns, the first is the clade_ID, the second is the observed coreness, and the third is the coreness of the permuted OTU table. Outfile.txt_stats.txt will contain a number of summary statistics in several columns. Column 1 contains the node names, column 2 is the observed coreness, column 3 is the mean coreness of the permutations, column 4 is the standard deviation of the coreness permutations, column 5 is the zscore, column 6 is the p-value of the ztest.
+    After the completing the random permutations ptest_tree.py calculates a zscore and p-value for each observed coreness value. When no mapping file is given to ptest_tree.py one pvalue is calculated per clade. However, if a mapping file is passed to ptest_tree.py then a p-value is calculated for each clade and each group. For example, if you have 3 groups in the mapping file each clade will have three p-values, one for each group. The output of this will be two files 1) outfile.txt (where outfile is the name you specified), and 2) out_file.txt_stats.txt. Outfile.txt will contain several columns, the first is the clade_ID, the second is the observed coreness, and the third is the coreness of the permuted OTU table. Outfile.txt_stats.txt will contain a number of summary statistics in several columns. Column 1 contains the node names, column 2 is the observed coreness, column 3 is the mean coreness of the permutations, column 4 is the standard deviation of the coreness permutations, column 5 is the zscore, column 6 is the p-value of the ztest.
 </div>
 
 <hr/>
@@ -190,7 +190,7 @@ Like most bioinformatic software CLaaTu is a work in progress. Growing pains are
 <h4><b>Citation</b></h4>
 
 Ecophylogenetics Clarifies the Evolutionary Association between Mammals and Their Gut Microbiota
-Christopher A. Gaulke, Holly K. Arnold, Ian R. Humphreys, Steven W. Kembel, James P. O’Dwyer, Thomas J. Sharpton
-mBio Sep 2018, 9 (5) e01348-18; DOI: 10.1128/mBio.01348-18
+Christopher A. Gaulke, Holly K. Arnold, Ian R. Humphreys, Steven W. Kembel, James P. O’Dwyer, Thomas J. Sharpton.
+mBio, Sep 2018, 9 (5) e01348-18; DOI: 10.1128/mBio.01348-18
 </div>
 
